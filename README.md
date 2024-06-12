@@ -33,7 +33,7 @@ This exercise mainly includes the following tasks:
 
 ### EXCEL Parsing
 
-There are 3 EXCEL files in the Tests directory, which primarily contain financial-related table information.
+There are 3 EXCEL files in the `tests` directory, which primarily contain financial-related table information.
 Two approaches have been adopted to parse the EXCEL files and extract the information:
 
 - By using `openpyxl` to parse the EXCEL files and extract all the table information. Each table is converted into a separate markdown table. The code is in `tests/extract_table.py`, and the output for the 3 test files is located in the directory `tests/output`.
@@ -59,7 +59,7 @@ Reusing the [RAG-GPT](https://github.com/gpt-open/rag-gpt) framework, tailored f
 <img style="display: block; margin: auto; width: 100%;" src="./doc/online_retrieve.jpg">
 </div>
 
-This exercise uses Chroma as the vector database, where we calculate vectors from the information extracted from EXCEL and store them in Chroma. We only adopted semantic retrieval and did not use text retrieval.
+This exercise uses `Chroma` as the vector database, where we calculate vectors from the information extracted from EXCEL and store them in Chroma. We only adopted semantic retrieval and did not use text retrieval.
 
 > [!NOTE]
 > 
@@ -78,6 +78,12 @@ Clone the repository:
 
 ```shell
 git clone https://github.com/blmdxiao/Smart-Spreadsheet.git && cd Smart-Spreadsheet
+```
+
+Switch to the `dev` branch.
+
+```shell
+git checkout dev
 ```
 
 ### Step 2: Configure variables of .env
@@ -214,7 +220,7 @@ Click the **Upload** button to upload an EXCEL file to the server. The server wi
 <img style="display: block; margin: auto; width: 70%;" src="./doc/file_task.jpg">
 </div>
 
-Click on a file name to view the list of chunk information after the file has been split.
+Click on a `file name` to view the list of chunk information after the file has been split.
 
 > [!NOTE]
 > 
