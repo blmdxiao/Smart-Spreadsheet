@@ -132,7 +132,7 @@ class ExcelTableProcessor:
         return markdown_tables
 
 
-def process_excel_files(file_list: list) -> None:
+def process_excel_files(file_list: List[str]) -> None:
     """Process each file and each sheet within the file, extract tables and write them to markdown files."""
     for index, filepath in enumerate(file_list):
         processor = ExcelTableProcessor(filepath)

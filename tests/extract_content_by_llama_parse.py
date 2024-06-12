@@ -38,6 +38,7 @@ def output_content(file_list: List[str], output_type: str) -> None:
         with open(filename, 'w') as file:
             file.write(content)
 
+
 if __name__ == '__main__':
     file_list = [
         './example_0.xlsx',
