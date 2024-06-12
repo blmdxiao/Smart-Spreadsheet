@@ -1,0 +1,97 @@
+
+
+|BALANCE SHEET                                   |FYE Mar20      |FYE Mar21                |FYE Mar22    |FYE Mar23    |YTD Oct23          |
+|------------------------------------------------|---------------|-------------------------|-------------|-------------|-------------------|
+|Cash & Due from Banks                           |               |$29,146,000              |$43,118,000  |$68,240,000  |$70,778,000        |
+|Short-term Investments                          |               |$136,000                 |$145,000     |$141,000     |$2,446,000         |
+|Gross Loan Portfolio (GLP)                      |               |$101,152,000             |$132,484,000 |$181,371,000 |$222,774,000       |
+|(Allowance for Loan Loss Reserve)               |               |($4,073,000)             |($5,000,000) |($6,038,000) |($7,391,000)       |
+|Net Loan Portfolio                              |               |$97,079,000              |$127,484,000 |$175,333,000 |$215,383,000       |
+|Other Assets                                    |               |$18,534,000              |$25,545,000  |$41,003,000  |$42,327,000        |
+|Total Assets                                    |$132,275,073   |$144,895,000             |$196,292,000 |$284,717,000 |$330,934,000       |
+|                                                |               |                         |             |             |                   |
+|Deposits                                        |               |                         |             |             |                   |
+|Borrowings                                      |               |$105,770,000             |$142,273,000 |$209,989,000 |$213,428,000       |
+|Subordinated Debt                               |               |$6,342,000               |$6,487,000   |$2,829,000   |$2,736,000         |
+|Other Liabilities                               |               |$8,747,000               |$10,817,000  |$17,236,000  |$21,757,000        |
+|Total Liabilities                               |               |$120,859,000             |$159,577,000 |$230,054,000 |$237,921,000       |
+|                                                |               |$0                       |$0           |$0           |$0                 |
+|Total Equity                                    |               |$34,056,000              |$30,463,000  |$80,692,000  |$89,510,000        |
+|Liabilities + Equity                            |$132,275,073   |$154,915,000             |$190,040,000 |$310,746,000 |$327,431,000       |
+|                                                |               |                         |             |             |                   |
+|INCOME STATEMENT                                |               |FYE Mar21                |FYE Mar22    |FYE Mar23    |YTD Oct23          |
+|Interest Income (+)                             |               |$31,527,000              |$25,477,000  |$44,417,000  |$37,361,000        |
+|Interest Expense (-)                            |               |($15,049,000)            |($14,519,000)|($20,676,000)|($16,982,000)      |
+|Net Interest Income                             |               |$16,478,000              |$10,958,000  |$23,741,000  |$20,379,000        |
+|                                                |               |                         |             |             |                   |
+|Non-Interest Income (+)                         |               |$2,379,000               |$9,444,000   |$13,568,000  |$6,387,000         |
+|Non-Interest [Operating] Expense (-)            |               |($7,403,000)             |($9,130,000) |($12,301,000)|($9,069,000)       |
+|Loan Loss Provision Expense (-)                 |               |($5,346,000)             |($4,824,000) |($10,150,000)|($10,488,000)      |
+|Pretax Operating Income                         |               |$6,108,000               |$6,448,000   |$14,858,000  |$7,209,000         |
+|                                                |               |                         |             |             |                   |
+|Non-Operating Income (+)                        |               |$405,000                 |$116,000     |$30,000      |$876,000           |
+|Non-Operating Expense (-)                       |               |($3,999,000)             |($4,687,000) |($6,559,000) |($4,469,000)       |
+|Pretax Profit                                   |               |$1,559,000               |$2,397,000   |$6,326,000   |$6,499,000         |
+|                                                |               |                         |             |             |                   |
+|Taxes (-)                                       |               |($413,000)               |($587,000)   |($1,656,000) |($1,540,000)       |
+|Net Income (After Taxes)                        |               |$1,146,000               |$1,810,000   |$4,670,000   |$4,959,000         |
+|                                                |               |                         |             |             |                   |
+|Cash Dividends Declared (-)                     |               |                         |             |             |                   |
+|Net Income to Retained Earnings                 |               |$1,146,000               |$1,810,000   |$4,670,000   |$4,959,000         |
+|                                                |               |                         |             |             |                   |
+|SHAREHOLDERS (Fully Diluted)                    |               |%                        |             |             |                   |
+|A                                               |               |23.9%                    |             |             |                   |
+|B                                               |               |12.8%                    |             |             |                   |
+|C                                               |               |9.7%                     |             |             |                   |
+|D*                                              |               |9.6%                     |             |             |                   |
+|E                                               |               |9.5%                     |             |             |                   |
+|F                                               |               |9.4%                     |             |             |                   |
+|G*                                              |               |8.9%                     |             |             |                   |
+|H                                               |               |7.0%                     |             |             |                   |
+|I                                               |               |9.2%                     |             |             |                   |
+|Total %                                         |               |100.0%                   |             |             |                   |
+|                                                |               |0                        |0            |0            |0                  |
+|Collateral Type                                 |               |                         |             |FYE Mar23    |FYE Oct23          |
+|Secured Loans                                   |               |                         |             |10.0%        |10.0%              |
+|Unsecured Loans                                 |               |                         |             |90.0%        |90.0%              |
+|<Add item 3>                                    |               |                         |             |             |                   |
+|<Add item 4>                                    |               |                         |             |             |                   |
+|<Add item 5>                                    |               |                         |             |             |                   |
+|<Add item 6>                                    |               |                         |             |             |                   |
+|<Add item 7>                                    |               |                         |             |             |                   |
+|Total                                           |               |                         |             |100.0%       |100.0%             |
+|Collateral Coverage Ratio                       |               |                         |             |10.0%        |10.0%              |
+|                                                |               |                         |             |             |                   |
+|FX EXPOSURE                                     |               |FYE Mar21                |FYE Mar22    |FYE Mar23    |YTD Oct23          |
+|Total Assets in a Foreign Currency []           |               |-                        |-            |-            |-                  |
+|Total Liabilities in a Foreign Currency []      |               |-                        |-            |-            |-                  |
+|Foreign Currency Hedges                         |               |-                        |-            |$0           |$0                 |
+|                                                |               |                         |             |             |                   |
+|CONCENTRATION                                   |               |FYE Mar21                |FYE Mar22    |FYE Mar23    |YTD Oct23          |
+|% of single largest obligor exposure wrt Equity |               |0.6%                     |0.5%         |0.3%         |0.2%               |
+|% of top 20 largest obligor exposure wrt Equity |               |3.6%                     |3.1%         |1.6%         |1.5%               |
+|% of single largest deposit in deposit portfolio|               |                         |             |             |                   |
+|% of top 20 deposits in deposit portfolio       |               |                         |             |             |                   |
+|                                                |               |                         |             |             |                   |
+|Portfolio Breakdown [USD]                       |               |Outstanding Balance (USD)|# Loans      |# Borrowers  |Average Loan Size  |
+|YTD Oct23                                       |               |                         |             |             |                   |
+|Microcredit                                     |               |225,000,000              |42,000       |36,000       |$5,200             |
+|Small Business                                  |               |-                        |-            |-            |                   |
+|Medium Business                                 |               |-                        |-            |-            |                   |
+|Large Business                                  |               |-                        |-            |-            |                   |
+|Consumer                                        |               |-                        |-            |-            |                   |
+|Mortgage                                        |               |-                        |-            |-            |                   |
+|Other                                           |               |-                        |-            |-            |                   |
+|Total                                           |               |225,000,000              |42,000       |36,000       |$5,200             |
+|                                                |               |                         |             |             |                   |
+|                                                |30-Sep-23      |31-Oct-23                |30-Nov-23    |             |                   |
+|Assets                                          |               |                         |             |             |                   |
+|Current Assets                                  |               |                         |             |             |                   |
+|Cash and Cash Equivalent                        |               |                         |             |             |                   |
+|1060 TD Chequing Bank Account - #4092           |587,881.66     |750,736.21               |453,234.78   |             |                   |
+|1061 TD AUD FX Currency-XXX-0283                |1,588.43       |17,457.51                |1,444.33     |             |                   |
+|Total Cash and Cash Equivalent                  |$589,470.09    |$768,193.72              |$454,679.11  |             |                   |
+|1320 Prepaid Expenses                           |423,826.69     |233,127.50               |270,189.85   |             |                   |
+|1302 Prepaid License at Vid Australia           |46,985.98      |68,985.98                |68,985.98    |             |                   |
+|Total Current Assets at Inc. and Australia      |$1,060,282.76  |$1,070,307.20            |$793,854.94  |             |                   |
+|Total Assets                                    |$1,060,282.76  |$1,070,307.20            |$793,854.94  |             |                   |
