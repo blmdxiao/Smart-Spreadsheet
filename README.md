@@ -21,7 +21,6 @@
   - [Import your data](#import-your-data)
     - [import local files](#import-local-files)
   - [Test the Chatbot](#test-the-chatbot)
-  - [Embed on your website](#embed-on-your-website)
   - [Dashboard of user's historical request](#dashboard-of-users-historical-request)
 
 
