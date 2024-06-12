@@ -43,7 +43,7 @@ Two approaches have been adopted to parse the EXCEL files and extract the inform
 > [!NOTE]
 > 
 > - In this exercise, since the example EXCEL files predominantly contain tables, we use `openpyxl`. By leveraging certain attributes of [cell.border](https://openpyxl.readthedocs.io/en/latest/api/openpyxl.styles.borders.html), we can determine the area of each table and then extract the corresponding content.
-> - By collecting the `number_format` attribute from the EXCEL example files, we can ensure that the extracted cell values remain consistent with how they are displayed in EXCEL.
+> - By collecting the [number_format](https://openpyxl.readthedocs.io/en/stable/_modules/openpyxl/styles/numbers.html) attribute from the EXCEL example files, we can ensure that the extracted cell values remain consistent with how they are displayed in EXCEL.
 > - Here, we are converting the content of tables in EXCEL into markdown. For values with spaces (indentation), we maintain the indentation by replacing spaces with `&nbsp;`.
 > - If an EXCEL file contains multiple tables in a single row, `LlamaParse` does not handle this specifically, making it difficult to obtain independent and complete information for a specific table later. Using `openpyxl` to design relevant algorithms can solve such issues.
 > - The default value of `USE_LLAMA_PARSE` is `0`, which means `LlamaParse` is not enabled.
